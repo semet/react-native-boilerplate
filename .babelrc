@@ -6,6 +6,7 @@
       {
         "root": ["./app"],
         "alias": {
+          "assets": "./app/assets",
           "components": "./app/components",
           "configs": "./app/configs",
           "features": "./app/features",
