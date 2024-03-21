@@ -8,6 +8,8 @@
       "features/*": ["./app/features/*"],
       "hooks/*": ["./app/hooks/*"],
       "layouts/*": ["./app/layouts/*"],
+      "navigation/*": ["./app/navigation/*"],
+      "screens/*": ["./app/screens/*"],
       "types/*": ["./app/types/*"],
       "utils/*": ["./app/utils/*"]
     }
